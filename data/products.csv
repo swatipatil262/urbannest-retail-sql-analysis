@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price,stock_qty
+101,Wireless Mouse,Electronics,899.0,120
+102,Mechanical Keyboard,Electronics,2499.0,80
+103,USB-C Hub,Electronics,1499.0,100
+104,Laptop Stand,Accessories,1299.0,90
+105,Backpack,Accessories,1799.0,75
+106,Desk Lamp,Home Office,999.0,110
+107,Notebook Set,Stationery,499.0,200
+108,Water Bottle,Lifestyle,799.0,150
+109,Power Bank,Electronics,1899.0,95
+110,Webcam,Electronics,2299.0,70
+111,Office Chair Cushion,Home Office,1199.0,60
+112,Cable Organizer,Accessories,399.0,180

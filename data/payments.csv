@@ -1,0 +1,47 @@
+order_id,payment_method,amount,payment_status,payment_date
+1001,UPI,2697.0,Paid,2025-03-02
+1002,Credit Card,4097.0,Paid,2025-03-05
+1003,Debit Card,7094.0,Paid,2025-03-08
+1004,Net Banking,1497.0,Paid,2025-03-08
+1005,Cash on Delivery,6497.0,Paid,2025-03-11
+1007,Credit Card,2697.0,Paid,2025-03-14
+1008,Debit Card,4097.0,Paid,2025-03-17
+1009,Net Banking,7094.0,Paid,2025-03-20
+1010,Cash on Delivery,1497.0,Paid,2025-03-20
+1011,UPI,6497.0,Paid,2025-03-23
+1012,Credit Card,4494.0,Paid,2025-03-26
+1013,Debit Card,2697.0,Paid,2025-03-26
+1014,Net Banking,4097.0,Paid,2025-03-29
+1015,Cash on Delivery,7094.0,Paid,2025-04-01
+1016,UPI,1497.0,Paid,2025-04-01
+1017,Credit Card,6497.0,Paid,2025-04-04
+1018,Debit Card,4494.0,Paid,2025-04-07
+1019,Net Banking,2697.0,Paid,2025-04-07
+1020,Cash on Delivery,4097.0,Paid,2025-04-10
+1021,UPI,7094.0,Paid,2025-04-13
+1022,Credit Card,1497.0,Paid,2025-04-13
+1023,Debit Card,6497.0,Paid,2025-04-16
+1024,Net Banking,4494.0,Pending,
+1025,Cash on Delivery,2697.0,Paid,2025-04-19
+1026,UPI,4097.0,Paid,2025-04-22
+1027,Credit Card,7094.0,Paid,2025-04-25
+1028,Debit Card,1497.0,Paid,2025-04-25
+1029,Net Banking,6497.0,Paid,2025-04-28
+1030,Cash on Delivery,4494.0,Paid,2025-05-01
+1032,Credit Card,4097.0,Paid,2025-05-04
+1033,Debit Card,7094.0,Paid,2025-05-07
+1035,Cash on Delivery,6497.0,Paid,2025-05-10
+1036,UPI,4494.0,Pending,
+1038,Debit Card,4097.0,Paid,2025-05-16
+1039,Net Banking,7094.0,Paid,2025-05-19
+1040,Cash on Delivery,1497.0,Paid,2025-05-19
+1041,UPI,6497.0,Paid,2025-05-22
+1042,Credit Card,4494.0,Paid,2025-05-25
+1043,Debit Card,2697.0,Paid,2025-05-25
+1044,Net Banking,4097.0,Paid,2025-05-28
+1045,Cash on Delivery,7094.0,Paid,2025-05-31
+1046,UPI,1497.0,Paid,2025-05-31
+1047,Credit Card,6497.0,Paid,2025-06-03
+1048,Debit Card,4494.0,Paid,2025-06-06
+1049,Net Banking,2697.0,Paid,2025-06-06
+1050,Cash on Delivery,4097.0,Paid,2025-06-09
